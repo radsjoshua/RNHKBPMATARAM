@@ -244,7 +244,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-20161215-2000x11252.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161215-2000x11253.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
